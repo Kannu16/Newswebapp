@@ -233,4 +233,7 @@
     overflow: scroll;
     border-radius: 0;
   }
+.news-list-horizontal{
+  min-width:30vh;
+  max-width:30vh;
 }
